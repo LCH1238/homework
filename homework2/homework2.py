@@ -1,6 +1,4 @@
-# 文档链接如下
-# 链接：https://pan.baidu.com/s/1s5d384a3IkaMI8A7APA2mw 
-# 提取码：77zx
+# made by LCH1238
 
 import numpy as np
 import cv2
